@@ -23,10 +23,10 @@
         Howler.autoUnlock = false;
         function playAudio(path) {
             audio = new Howl({
-                usingWebAudio: false,
-                html5: true,
+                usingWebAudio: true,
+                html5: false,
                 mute: false,
-                webAudio: true,
+                webAudio: false,
                 volume: 1,
                 src: [path],
                 preload: true,
