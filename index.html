@@ -17,10 +17,10 @@
 
     <title>czokoman</title>
     <link rel="manifest" href="manifest.json">
-    <script src="https://cdn.jsdelivr.net/npm/howler@2.1.3/dist/howler.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/howler@2.2.1/dist/howler.min.js"></script>
     <script type="application/javascript">
         var audio;
-        Howler.autoUnlock = false;
+        Howler.autoUnlock = true;
         function playAudio(path) {
             audio = new Howl({
                 usingWebAudio: false,
@@ -33,10 +33,11 @@
                 onloaderror: (error) => alert(error)
             });
             audio.play();
+            
         }
 
         function stopAudio() {
-            audio.stop();
+            audio.unload();
         }
     </script>
 </head>
@@ -48,7 +49,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=273443104');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=1570265162');
             });
         }
     </script>
