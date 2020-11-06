@@ -24,7 +24,7 @@
         function playAudio(path) {
             audio = new Howl({
                 usingWebAudio: false,
-                html5: false,
+                html5: true,
                 mute: false,
                 webAudio: true,
                 volume: 1,
@@ -47,8 +47,8 @@
        https://developers.google.com/web/fundamentals/primers/service-workers -->
     <script>
         if ('serviceWorker' in navigator) {
-            window.addEventListener('flutter-first-frame', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=574755603');
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('flutter_service_worker.js?v=273443104');
             });
         }
     </script>
