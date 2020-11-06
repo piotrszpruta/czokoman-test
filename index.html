@@ -23,10 +23,10 @@
         Howler.autoUnlock = false;
         function playAudio(path) {
             audio = new Howl({
-                usingWebAudio: true,
-                html5: false,
+                usingWebAudio: false,
+                html5: true,
                 mute: false,
-                webAudio: false,
+                webAudio: true,
                 volume: 1,
                 src: [path],
                 preload: true,
@@ -48,7 +48,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('flutter-first-frame', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=3656559260');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=2383895764');
             });
         }
     </script>

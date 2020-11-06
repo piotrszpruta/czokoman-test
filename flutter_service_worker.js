@@ -48,14 +48,14 @@ const RESOURCES = {
 "assets/assets/quiz_end.mp3": "579802e438f60ad38c9e2e5b5864ab7c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "c63d57363a89e30955d3512de41becf4",
+"assets/NOTICES": "9ae34b23697d31a699d38b9f64408c12",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "2bf0f57c3f87e9244f2cc2e338df479c",
-"/": "2bf0f57c3f87e9244f2cc2e338df479c",
-"main.dart.js": "8f4131ccf3b8cd2e5d85729a01c9f726",
+"index.html": "bf57cda94008163cf97778b3d3aa9beb",
+"/": "bf57cda94008163cf97778b3d3aa9beb",
+"main.dart.js": "2c761c6e3f49b98af668d9c3457b20b6",
 "manifest.json": "acc298f330807f9cf710aa57c0506b03",
 "version.json": "1b6adf7d28bded05383307a169afb8ac"
 };
