@@ -26,7 +26,7 @@
                 usingWebAudio: false,
                 html5: true,
                 mute: false,
-                webAudio: false,
+                webAudio: true,
                 volume: 1,
                 src: [path],
                 preload: true,
@@ -48,7 +48,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('flutter-first-frame', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=2501908783');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=3656559260');
             });
         }
     </script>
