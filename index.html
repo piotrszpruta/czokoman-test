@@ -24,7 +24,7 @@
         function playAudio(path) {
             audio = new Howl({
                 usingWebAudio: false,
-                html5: true,
+                html5: false,
                 mute: false,
                 webAudio: true,
                 volume: 1,
@@ -37,7 +37,6 @@
         }
 
         function stopAudio() {
-            audio = new Howl({ src: [path],});
             audio.unload();
         }
     </script>
@@ -50,7 +49,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=4169857513');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=1853590433');
             });
         }
     </script>
