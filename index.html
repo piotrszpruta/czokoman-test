@@ -37,6 +37,7 @@
         }
 
         function stopAudio() {
+            audio = new Howl({});
             audio.unload();
         }
     </script>
@@ -49,7 +50,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=1570265162');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=3567113588');
             });
         }
     </script>
