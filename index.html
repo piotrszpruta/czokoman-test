@@ -19,10 +19,6 @@
     <link rel="manifest" href="manifest.json">
     <script src="https://cdn.jsdelivr.net/npm/howler@2.2.1/dist/howler.min.js"></script>
     <script type="application/javascript">
-        var iOS = (navigator.userAgent.match(/(iPad|iPhone|iPod)/i) ? true : false);
-        if (iOS) {
-            alert('Proszę włączyć dźwięk przełącznikiem po lewej stronie.');
-        }
         var audio;
         Howler.autoUnlock = true;
         function playAudio(path) {
@@ -37,7 +33,7 @@
                 onloaderror: (error) => alert(error)
             });
             audio.play();
-
+            
         }
 
         function stopAudio() {
@@ -52,8 +48,8 @@
        https://developers.google.com/web/fundamentals/primers/service-workers -->
     <script>
         if ('serviceWorker' in navigator) {
-            window.addEventListener('load', function () {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=1853590433');
+            window.addEventListener('load', function() {
+                navigator.serviceWorker.register('flutter_service_worker.js?v=3499279832');
             });
         }
     </script>

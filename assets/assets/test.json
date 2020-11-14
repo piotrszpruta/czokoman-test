@@ -1,0 +1,290 @@
+[
+    {
+        "1": "Czy lubisz jeść słodycze?",
+        "2": "Czy jesz słodycze codziennie?",
+        "3": "Czy lubisz jeść owoce?",
+        "4": "Czy lubisz jeść warzywa?",
+        "5": "Czy lubisz czekoladę?",
+        "6": "Czy jesz codziennie śniadanie?",
+        "7": "Czy jesz gorzką czekoladę?",
+        "8": "Czy pijesz soki owocowe?",
+        "9": "Czy pijesz wodę?",
+        "10": "Czy słodzisz herbatę?",
+        "11": "Czy jesz sałatki?",
+        "12": "Czy produkty pełnoziarniste są zdrowe?",
+        "13": "Czy cukier jest zdrowy dla zębów?",
+        "14": "Czy jesz czasem słodycze zamiast śniadania, obiadu lub kolacji?",
+        "15": "Czy jesz owoce i warzywa kilka razy dziennie?",
+        "16": "Czy jesz orzechy, migdały i pestki słonecznika?",
+        "17": "Czy jesz ciemne pieczywo?",
+        "18": "Czy jesz słodkie płatki śniadaniowe?",
+        "19": "Czy wiesz, ze zbyt częste jedzenie słodyczy może powodować nadwagę?",
+        "20": "Czy lubisz uprawiać sport?"
+    },
+    {
+        "1": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "2": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "3": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "4": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "5": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "6": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "7": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "8": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "9": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "10": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "11": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "12": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "13": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "14": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "15": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "16": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "17": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "18": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "19": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "20": {
+            "a": "Tak",
+            "b": "Nie"
+        }
+    },
+    {
+        "1": {
+            "a": "Chyba każdy je lubi, tylko pamiętaj, żeby nie przesadzać",
+            "b": "To bardzo dobrze. Mam nadzieję, że za to jesz owoce i warzywa."
+        },
+        "2": {
+            "a": "Postaraj się jeść mniej",
+            "b": "Brawo dla Ciebie!"
+        },
+        "3": {
+            "a": "Tak trzymaj!",
+            "b": "Postaraj się, owoce nie gryzą"
+        },
+        "4": {
+            "a": "Brawo Mistrzu!",
+            "b": "Zachęcam Cię. Jest duży wybór, na pewno coś znajdziesz dla siebie."
+        },
+        "5": {
+            "a": "Tak samo jak ja! :)",
+            "b": "Nie wierzę Ci"
+        },
+        "6": {
+            "a": "Brawo dla Ciebie",
+            "b": "To źle źle. Śniadanie zapewni Ci energię na cały dzień."
+        },
+        "7": {
+            "a": "To tak samo jak ja",
+            "b": "Spróbuj. Czekolada gorzka poprawia myślenie."
+        },
+        "8": {
+            "a": "To bardzo dobrze, ale pamiętaj po wypiciu przepłucz zęby wodą.",
+            "b": "To mam nadzieję, że pijesz dużo wody"
+        },
+        "9": {
+            "a": "Jestem dumny z Ciebie",
+            "b": "Postaraj się."
+        },
+        "10": {
+            "a": "Spróbuj cukier zastąpić miodem.",
+            "b": "Idealnie"
+        },
+        "11": {
+            "a": "Wow! Wspaniale",
+            "b": "Jest tyle różnych, że któraś będzie ci smakować"
+        },
+        "12": {
+            "a": "Daję Ci 6 z wiedzy o dobrym jedzeniu",
+            "b": "Na pewno wiesz, że to zła odpowiedź."
+        },
+        "13": {
+            "a": "Oj nie nie, od cukru robią się dziury w zębach",
+            "b": "Mam nadzieję, że go nie jesz"
+        },
+        "14": {
+            "a": "Chyba straciłeś rozum. Nigdy tego nie rób",
+            "b": "Bravissimo!"
+        },
+        "15": {
+            "a": "Idealnie!",
+            "b": "Namawiam Cię, abyś to robił"
+        },
+        "16": {
+            "a": "Ja też to jem!",
+            "b": "Skosztuj, są pyszne i zdrowe"
+        },
+        "17": {
+            "a": "Świetnie. Jest ono zdrowsze od białego",
+            "b": "Zaryzykuj i spróbuj"
+        },
+        "18": {
+            "a": "Wiem, że są dobre, ale nie są zdrowe. Spróbuj zamienić na owsiankę",
+            "b": "Nic nie straciłeś"
+        },
+        "19": {
+            "a": "To mam nadzieję, że nie jesz zbyt często",
+            "b": "To teraz już wiesz"
+        },
+        "20": {
+            "a": "Brawo, brawo i jeszcze raz brawo!",
+            "b": "Zacznij koniecznie"
+        }
+    },
+    {
+        "1": {
+            "audio1": "assets/quiz1.mp3",
+            "a": "assets/quiz1_no.mp3",
+            "b": "assets/quiz1_yes.mp3"
+        },
+        "2": {
+            "audio1": "assets/quiz2.mp3",
+            "a": "assets/quiz2_yes.mp3",
+            "b": "assets/quiz2_no.mp3"
+        },
+        "3": {
+            "audio1": "assets/quiz3.mp3",
+            "a": "assets/quiz3_yes.mp3",
+            "b": "assets/quiz3_no.mp3"
+        },
+        "4": {
+            "audio1": "assets/quiz4.mp3",
+            "a": "assets/quiz4_yes.mp3",
+            "b": "assets/quiz4_no.mp3"
+        },
+        "5": {
+            "audio1": "assets/quiz5.mp3",
+            "a": "assets/quiz5_yes.mp3",
+            "b": "assets/quiz5_no.mp3"
+        },
+        "6": {
+            "audio1": "assets/quiz6.mp3",
+            "a": "assets/quiz6_yes.mp3",
+            "b": "assets/quiz6_no.mp3"
+        },
+        "7": {
+            "audio1": "assets/quiz7.mp3",
+            "a": "assets/quiz7_yes.mp3",
+            "b": "assets/quiz7_no.mp3"
+        },
+        "8": {
+            "audio1": "assets/quiz8.mp3",
+            "a": "assets/quiz8_yes.mp3",
+            "b": "assets/quiz8_no.mp3"
+        },
+        "9": {
+            "audio1": "assets/quiz9.mp3",
+            "a": "assets/quiz9_yes.mp3",
+            "b": "assets/quiz9_no.mp3"
+        },
+        "10": {
+            "audio1": "assets/quiz10.mp3",
+            "a": "assets/quiz10_yes.mp3",
+            "b": "assets/quiz10_no.mp3"
+        },
+        "11": {
+            "audio1": "assets/quiz11.mp3",
+            "a": "assets/quiz11_yes.mp3",
+            "b": "assets/quiz11_no.mp3"
+        },
+        "12": {
+            "audio1": "assets/quiz12.mp3",
+            "a": "assets/quiz12_yes.mp3",
+            "b": "assets/quiz12_no.mp3"
+        },
+        "13": {
+            "audio1": "assets/quiz13.mp3",
+            "a": "assets/quiz13_yes.mp3",
+            "b": "assets/quiz13_no.mp3"
+        },
+        "14": {
+            "audio1": "assets/quiz14.mp3",
+            "a": "assets/quiz14_yes.mp3",
+            "b": "assets/quiz14_no.mp3"
+        },
+        "15": {
+            "audio1": "assets/quiz15.mp3",
+            "a": "assets/quiz15_yes.mp3",
+            "b": "assets/quiz15_no.mp3"
+        },
+        "16": {
+            "audio1": "assets/quiz16.mp3",
+            "a": "assets/quiz16_yes.mp3",
+            "b": "assets/quiz16_no.mp3"
+        },
+        "17": {
+            "audio1": "assets/quiz17.mp3",
+            "a": "assets/quiz17_yes.mp3",
+            "b": "assets/quiz17_no.mp3"
+        },
+        "18": {
+            "audio1": "assets/quiz18.mp3",
+            "a": "assets/quiz18_yes.mp3",
+            "b": "assets/quiz18_no.mp3"
+        },
+        "19": {
+            "audio1": "assets/quiz19.mp3",
+            "a": "assets/quiz19_yes.mp3",
+            "b": "assets/quiz19_no.mp3"
+        },
+        "20": {
+            "audio1": "assets/quiz20.mp3",
+            "a": "assets/quiz20_yes.mp3",
+            "b": "assets/quiz20_no.mp3"
+        }
+    }
+]
