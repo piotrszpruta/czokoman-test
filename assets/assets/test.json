@@ -1,27 +1,60 @@
 [
     {
-        "1": "Czy lubisz jeść słodycze?",
-        "2": "Czy jesz słodycze codziennie?",
-        "3": "Czy lubisz jeść owoce?",
-        "4": "Czy lubisz jeść warzywa?",
-        "5": "Czy lubisz czekoladę?",
-        "6": "Czy jesz codziennie śniadanie?",
-        "7": "Czy jesz gorzką czekoladę?",
-        "8": "Czy pijesz soki owocowe?",
-        "9": "Czy pijesz wodę?",
-        "10": "Czy słodzisz herbatę?",
-        "11": "Czy jesz sałatki?",
-        "12": "Czy produkty pełnoziarniste są zdrowe?",
-        "13": "Czy cukier jest zdrowy dla zębów?",
-        "14": "Czy jesz czasem słodycze zamiast śniadania, obiadu lub kolacji?",
-        "15": "Czy jesz owoce i warzywa kilka razy dziennie?",
-        "16": "Czy jesz orzechy, migdały i pestki słonecznika?",
-        "17": "Czy jesz ciemne pieczywo?",
-        "18": "Czy jesz słodkie płatki śniadaniowe?",
-        "19": "Czy wiesz, ze zbyt częste jedzenie słodyczy może powodować nadwagę?",
-        "20": "Czy lubisz uprawiać sport?"
+        "0": "Czy lubisz jeść słodycze?",
+        "1": "Czy jesz słodycze codziennie?",
+        "2": "Czy lubisz jeść owoce?",
+        "3": "Czy lubisz jeść warzywa?",
+        "4": "Czy lubisz czekoladę?",
+        "5": "Czy jesz codziennie śniadanie?",
+        "6": "Czy jesz gorzką czekoladę?",
+        "7": "Czy pijesz soki owocowe?",
+        "8": "Czy pijesz wodę?",
+        "9": "Czy słodzisz herbatę?",
+        "10": "Czy jesz sałatki?",
+        "11": "Czy produkty pełnoziarniste są zdrowe?",
+        "12": "Czy cukier jest zdrowy dla zębów?",
+        "13": "Czy jesz czasem słodycze zamiast śniadania, obiadu lub kolacji?",
+        "14": "Czy jesz owoce i warzywa kilka razy dziennie?",
+        "15": "Czy jesz orzechy, migdały i pestki słonecznika?",
+        "16": "Czy jesz ciemne pieczywo?",
+        "17": "Czy jesz słodkie płatki śniadaniowe?",
+        "18": "Czy wiesz, ze zbyt częste jedzenie słodyczy może powodować nadwagę?",
+        "19": "Czy lubisz uprawiać sport?",
+        "20": "Czy codziennie spędzasz czas na świeżym powietrzu?",
+        "21": "Czy lubisz żuć gumę do żucia?",
+        "22": "Czy czekolada jest zdrowa?",
+        "23": "Czy myjesz zęby przynajmniej 2 razy dziennie?",
+        "24": "Czy podjadanie surowych warzyw między posiłkami jest zdrowe?",
+        "25": "Czy spożycie gorzkiej czekolady poprawia pracę serca?",
+        "26": "Czy gorzka czekolada pozytywnie wpływa na pamięć i koncentrację?",
+        "27": "Czy czekolada z dodatkiem bakterii probiotycznych podnosi odporność organizmu?",
+        "28": "Czy spożycie czekolady poprawia nastrój?",
+        "29": "Czy zawsze zabierasz śniadanie do szkoły?",
+        "30": "Czy jesz posiłki o tej samej porze?",
+        "31": "Czy wypijasz codziennie przynajmniej 1.5 l wody?",
+        "32": "Czy cukier można zastąpić naturalnym miodem?",
+        "33": "Czy czekolada powstaje z ziaren kakaowca?",
+        "34": "Czy zawsze myjesz owoce i warzywa przed zjedzeniem ?",
+        "35": "Czy niewłaściwe odżywianie prowadzi do złego stanu zdrowia?",
+        "36": "Czy w ciele człowieka występują bakterie?",
+        "37": "Co to jest zdrowa dieta?",
+        "38": "Co przeważa w Twoim jadłospisie?",
+        "39": "Zasady dobrego żywienia zawarte są w:",
+        "40": "Podstawą dobrego dnia jest:",
+        "41": "Najlepiej pić :",
+        "42": "Mleko jest źródłem :",
+        "43": "Czekolada jest źródłem:",
+        "44": "Ile posiłków powinno się spożywać?",
+        "45": "Gdy na powierzchni dżemu pojawi się pleśń należy:",
+        "46": "Którą wolisz czekoladę: mleczną czy gorzką?",
+        "47": "Czy wiesz, ze z warzyw też można upiec dobre ciasto ?",
+        "48": "."
     },
     {
+        "0": {
+            "a": "Tak",
+            "b": "Nie"
+        },
         "1": {
             "a": "Tak",
             "b": "Nie"
@@ -101,190 +134,808 @@
         "20": {
             "a": "Tak",
             "b": "Nie"
+        },
+        "21": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "22": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "23": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "24": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "25": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "26": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "27": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "28": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "29": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "30": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "31": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "32": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "33": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "34": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "35": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "36": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "37": {
+            "a": "Ograniczenie jedzenia",
+            "b": "Właściwe odżywianie"
+        },
+        "38": {
+            "a": "Słodycze",
+            "b": "Owoców i warzyw"
+        },
+        "39": {
+            "a": "Encyklopedii",
+            "b": "Piramidzie żywieniowej"
+        },
+        "40": {
+            "a": "Śniadanie",
+            "b": "Kolacja"
+        },
+        "41": {
+            "a": "Słodkie napoje",
+            "b": "Woda z cytryną"
+        },
+        "42": {
+            "a": "Wapnia",
+            "b": "Witaminy C"
+        },
+        "43": {
+            "a": "Magnezu",
+            "b": "Soli"
+        },
+        "44": {
+            "a": "Tyle ile ma się ochoty",
+            "b": "4-5 dziennie"
+        },
+        "45": {
+            "a": "Wyrzucić część z pleśnią, a resztę zjeść",
+            "b": "Wyrzucić całkowicie produkt"
+        },
+        "46": {
+            "a": "Mleczna",
+            "b": "Gorzka"
+        },
+        "47": {
+            "a": "Tak",
+            "b": "Nie"
+        },
+        "48": {
+            "a": ".",
+            "b": "."
         }
     },
     {
-        "1": {
+        "0": {
             "a": "Chyba każdy je lubi, tylko pamiętaj, żeby nie przesadzać",
             "b": "To bardzo dobrze. Mam nadzieję, że za to jesz owoce i warzywa."
         },
-        "2": {
+        "1": {
             "a": "Postaraj się jeść mniej",
             "b": "Brawo dla Ciebie!"
         },
-        "3": {
+        "2": {
             "a": "Tak trzymaj!",
             "b": "Postaraj się, owoce nie gryzą"
         },
-        "4": {
+        "3": {
             "a": "Brawo Mistrzu!",
             "b": "Zachęcam Cię. Jest duży wybór, na pewno coś znajdziesz dla siebie."
         },
-        "5": {
+        "4": {
             "a": "Tak samo jak ja! :)",
             "b": "Nie wierzę Ci"
         },
-        "6": {
+        "5": {
             "a": "Brawo dla Ciebie",
             "b": "To źle źle. Śniadanie zapewni Ci energię na cały dzień."
         },
-        "7": {
+        "6": {
             "a": "To tak samo jak ja",
             "b": "Spróbuj. Czekolada gorzka poprawia myślenie."
         },
-        "8": {
+        "7": {
             "a": "To bardzo dobrze, ale pamiętaj po wypiciu przepłucz zęby wodą.",
             "b": "To mam nadzieję, że pijesz dużo wody"
         },
-        "9": {
+        "8": {
             "a": "Jestem dumny z Ciebie",
             "b": "Postaraj się."
         },
-        "10": {
+        "9": {
             "a": "Spróbuj cukier zastąpić miodem.",
             "b": "Idealnie"
         },
-        "11": {
+        "10": {
             "a": "Wow! Wspaniale",
             "b": "Jest tyle różnych, że któraś będzie ci smakować"
         },
-        "12": {
+        "11": {
             "a": "Daję Ci 6 z wiedzy o dobrym jedzeniu",
             "b": "Na pewno wiesz, że to zła odpowiedź."
         },
-        "13": {
+        "12": {
             "a": "Oj nie nie, od cukru robią się dziury w zębach",
             "b": "Mam nadzieję, że go nie jesz"
         },
-        "14": {
+        "13": {
             "a": "Chyba straciłeś rozum. Nigdy tego nie rób",
             "b": "Bravissimo!"
         },
-        "15": {
+        "14": {
             "a": "Idealnie!",
             "b": "Namawiam Cię, abyś to robił"
         },
-        "16": {
+        "15": {
             "a": "Ja też to jem!",
             "b": "Skosztuj, są pyszne i zdrowe"
         },
-        "17": {
+        "16": {
             "a": "Świetnie. Jest ono zdrowsze od białego",
             "b": "Zaryzykuj i spróbuj"
         },
-        "18": {
+        "17": {
             "a": "Wiem, że są dobre, ale nie są zdrowe. Spróbuj zamienić na owsiankę",
             "b": "Nic nie straciłeś"
         },
-        "19": {
+        "18": {
             "a": "To mam nadzieję, że nie jesz zbyt często",
             "b": "To teraz już wiesz"
         },
-        "20": {
+        "19": {
             "a": "Brawo, brawo i jeszcze raz brawo!",
             "b": "Zacznij koniecznie"
+        },
+        "20": {
+            "a": "To tak samo jak ja.",
+            "b": "Spróbuj codziennie , chociaż krótki spacer."
+        },
+        "21": {
+            "a": "Pamiętaj wybierać gumy dobre dla zębów.",
+            "b": "To też dobrze, nie jest to niezbędne."
+        },
+        "22": {
+            "a": "Oczywiście, a im więcej kakao tym lepiej.",
+            "b": "Myślisz się. Jest to zdrowa energia."
+        },
+        "23": {
+            "a": "Perfekcyjnie",
+            "b": "Oj nie dobrze,  natychmiast zacznij."
+        },
+        "24": {
+            "a": "Jedzenie warzyw to zawsze dobry pomysł.",
+            "b": "To jedz warzywa do posiłku."
+        },
+        "25": {
+            "a": "Mamma mija skąd to wiesz ?!",
+            "b": "Mylisz się. Nie tylko wzmacnia serce, dodaje energii i poprawia w myśleniu."
+        },
+        "26": {
+            "a": "To prawda, tylko nie jedz jej za dużo.",
+            "b": "Zapewniam Cię, ze 2,3 kostki czekolady wpływają pozytywnie na myślenie."
+        },
+        "27": {
+            "a": "Masz niesamowitą wiedzę",
+            "b": "Nie masz racji. Dobre bakterie w naszej czekoladzie wzmacniają odporność."
+        },
+        "28": {
+            "a": "Zgadza się. Dlatego ją jem.",
+            "b": "próbuj a sam się przekonasz."
+        },
+        "29": {
+            "a": "To zuch z Ciebie! :)",
+            "b": "Oj to nie dobrze. Śniadanie daje energię."
+        },
+        "30": {
+            "a": "To idealnie ! To dobrze dla zdrowia.",
+            "b": "Spróbuj to zmienić, będziesz czuć się lepiej."
+        },
+        "31": {
+            "a": "Tak trzymaj!",
+            "b": "A powinieneś. Woda to życie."
+        },
+        "32": {
+            "a": "Można nim posłodzić herbatę.",
+            "b": "Oczywiście, że można"
+        },
+        "33": {
+            "a": "Wow! A wiesz jak wyglądają...?",
+            "b": "No przecież nie z kukurydzy."
+        },
+        "34": {
+            "a": "Jestem z Ciebie dumny.",
+            "b": "Nie dobrze,  bardzo źle."
+        },
+        "35": {
+            "a": "Zgadza się. Podobno mówi się: ,, jesteś tym co jesz”.",
+            "b": "Mylisz się. Jedzenie ma duży wpływ na nasze zdrowie."
+        },
+        "36": {
+            "a": "Wow! Naprawdę dużo wiesz.",
+            "b": "Nie masz racji. Być może jest ich więcej niż komórek ciała."
+        },
+        "37": {
+            "a": "Chyba nie chcesz się zagłodzić",
+            "b": "Dobra odpowiedź!"
+        },
+        "38": {
+            "a": "Nie dobrze. Można je jeść ale niezbyt często",
+            "b": "Bardzo dobrze, pamiętaj o 5 porcjach dziennie"
+        },
+        "39": {
+            "a": "Być może też, ale trudno je poszukać",
+            "b": "Dokładnie, powinieneś ją dobrze poznać"
+        },
+        "40": {
+            "a": "Oczywiście, że tak!",
+            "b": "Chyba, że dzień zaczynasz wieczorem"
+        },
+        "41": {
+            "a": "Tak naprawdę po nich się chce pić jeszcze bardziej",
+            "b": "Świetny wybór"
+        },
+        "42": {
+            "a": "Tak, wapń jest potrzebny aby mieć zdrowe i silne kości",
+            "b": "W mleku nie ma ich wcale, ale znajdziesz ją np. w truskawkowych"
+        },
+        "43": {
+            "a": "Tak, jest potrzebny dla naszego zdrowia",
+            "b": "Żartowniś z Ciebie"
+        },
+        "44": {
+            "a": "Chyba żartujesz",
+            "b": "Świetna odpowiedź"
+        },
+        "45": {
+            "a": "Nigdy tak nie rób",
+            "b": "Oczywiście że tak, pleśń jest bardzo toksyczna"
+        },
+        "46": {
+            "a": "Ona ma dużo wapnia, ale wybieraj taką która ma mało cukru.",
+            "b": "Świetny wybór. Jest ona najzdrowsza."
+        },
+        "47": {
+            "a": "Ciekaw jestem czy znasz dużo takich deserów",
+            "b": "Jest wiele takich przepisów. Ja najbardziej lubię te które mają w składzie czekoladę."
+        },
+        "48": {
+            "a": ".",
+            "b": "."
         }
     },
     {
-        "1": {
+        "0": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz1.mp3",
             "a": "assets/quiz1_no.mp3",
             "b": "assets/quiz1_yes.mp3"
         },
-        "2": {
+        "1": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz2.mp3",
             "a": "assets/quiz2_yes.mp3",
             "b": "assets/quiz2_no.mp3"
         },
-        "3": {
+        "2": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz3.mp3",
             "a": "assets/quiz3_yes.mp3",
             "b": "assets/quiz3_no.mp3"
         },
-        "4": {
+        "3": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz4.mp3",
             "a": "assets/quiz4_yes.mp3",
             "b": "assets/quiz4_no.mp3"
         },
-        "5": {
+        "4": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz5.mp3",
             "a": "assets/quiz5_yes.mp3",
             "b": "assets/quiz5_no.mp3"
         },
-        "6": {
+        "5": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz6.mp3",
             "a": "assets/quiz6_yes.mp3",
             "b": "assets/quiz6_no.mp3"
         },
-        "7": {
+        "6": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz7.mp3",
             "a": "assets/quiz7_yes.mp3",
             "b": "assets/quiz7_no.mp3"
         },
-        "8": {
+        "7": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz8.mp3",
             "a": "assets/quiz8_yes.mp3",
             "b": "assets/quiz8_no.mp3"
         },
-        "9": {
+        "8": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz9.mp3",
             "a": "assets/quiz9_yes.mp3",
             "b": "assets/quiz9_no.mp3"
         },
-        "10": {
+        "9": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz10.mp3",
             "a": "assets/quiz10_yes.mp3",
             "b": "assets/quiz10_no.mp3"
         },
-        "11": {
+        "10": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz11.mp3",
             "a": "assets/quiz11_yes.mp3",
             "b": "assets/quiz11_no.mp3"
         },
-        "12": {
+        "11": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz12.mp3",
             "a": "assets/quiz12_yes.mp3",
             "b": "assets/quiz12_no.mp3"
         },
-        "13": {
+        "12": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz13.mp3",
             "a": "assets/quiz13_yes.mp3",
             "b": "assets/quiz13_no.mp3"
         },
-        "14": {
+        "13": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz14.mp3",
             "a": "assets/quiz14_yes.mp3",
             "b": "assets/quiz14_no.mp3"
         },
-        "15": {
+        "14": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz15.mp3",
             "a": "assets/quiz15_yes.mp3",
             "b": "assets/quiz15_no.mp3"
         },
-        "16": {
+        "15": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz16.mp3",
             "a": "assets/quiz16_yes.mp3",
             "b": "assets/quiz16_no.mp3"
         },
-        "17": {
+        "16": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz17.mp3",
             "a": "assets/quiz17_yes.mp3",
             "b": "assets/quiz17_no.mp3"
         },
-        "18": {
+        "17": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz18.mp3",
             "a": "assets/quiz18_yes.mp3",
             "b": "assets/quiz18_no.mp3"
         },
-        "19": {
+        "18": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz19.mp3",
             "a": "assets/quiz19_yes.mp3",
             "b": "assets/quiz19_no.mp3"
         },
-        "20": {
+        "19": {
+            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz20.mp3",
             "a": "assets/quiz20_yes.mp3",
             "b": "assets/quiz20_no.mp3"
+        },
+        "20": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz21.mp3",
+            "a": "assets/quiz21_yes.mp3",
+            "b": "assets/quiz21_no.mp3"
+        },
+        "21": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz22.mp3",
+            "a": "assets/quiz22_yes.mp3",
+            "b": "assets/quiz22_no.mp3"
+        },
+        "22": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz23.mp3",
+            "a": "assets/quiz23_yes.mp3",
+            "b": "assets/quiz23_no.mp3"
+        },
+        "23": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz24.mp3",
+            "a": "assets/quiz24_yes.mp3",
+            "b": "assets/quiz24_no.mp3"
+        },
+        "24": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz25.mp3",
+            "a": "assets/quiz25_yes.mp3",
+            "b": "assets/quiz25_no.mp3"
+        },
+        "25": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz26.mp3",
+            "a": "assets/quiz26_yes.mp3",
+            "b": "assets/quiz26_no.mp3"
+        },
+        "26": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz27.mp3",
+            "a": "assets/quiz27_yes.mp3",
+            "b": "assets/quiz27_no.mp3"
+        },
+        "27": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz28.mp3",
+            "a": "assets/quiz28_yes.mp3",
+            "b": "assets/quiz28_no.mp3"
+        },
+        "28": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz29.mp3",
+            "a": "assets/quiz29_yes.mp3",
+            "b": "assets/quiz29_no.mp3"
+        },
+        "29": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz30.mp3",
+            "a": "assets/quiz30_yes.mp3",
+            "b": "assets/quiz30_no.mp3"
+        },
+        "30": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz31.mp3",
+            "a": "assets/quiz31_yes.mp3",
+            "b": "assets/quiz31_no.mp3"
+        },
+        "31": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz32.mp3",
+            "a": "assets/quiz32_yes.mp3",
+            "b": "assets/quiz32_no.mp3"
+        },
+        "32": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz33.mp3",
+            "a": "assets/quiz33_yes.mp3",
+            "b": "assets/quiz33_no.mp3"
+        },
+        "33": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz34.mp3",
+            "a": "assets/quiz34_yes.mp3",
+            "b": "assets/quiz34_no.mp3"
+        },
+        "34": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz35.mp3",
+            "a": "assets/quiz35_yes.mp3",
+            "b": "assets/quiz35_no.mp3"
+        },
+        "35": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz36.mp3",
+            "a": "assets/quiz36_yes.mp3",
+            "b": "assets/quiz36_no.mp3"
+        },
+        "36": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz37.mp3",
+            "a": "assets/quiz37_yes.mp3",
+            "b": "assets/quiz37_no.mp3"
+        },
+        "37": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz38.mp3",
+            "a": "assets/quiz38_yes.mp3",
+            "b": "assets/quiz38_no.mp3"
+        },
+        "38": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz39.mp3",
+            "a": "assets/quiz39_yes.mp3",
+            "b": "assets/quiz39_no.mp3"
+        },
+        "39": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz40.mp3",
+            "a": "assets/quiz40_yes.mp3",
+            "b": "assets/quiz40_no.mp3"
+        },
+        "40": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz41.mp3",
+            "a": "assets/quiz41_yes.mp3",
+            "b": "assets/quiz41_no.mp3"
+        },
+        "41": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz42.mp3",
+            "a": "assets/quiz42_yes.mp3",
+            "b": "assets/quiz42_no.mp3"
+        },
+        "42": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz43.mp3",
+            "a": "assets/quiz43_yes.mp3",
+            "b": "assets/quiz43_no.mp3"
+        },
+        "43": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz44.mp3",
+            "a": "assets/quiz44_yes.mp3",
+            "b": "assets/quiz44_no.mp3"
+        },
+        "44": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz45.mp3",
+            "a": "assets/quiz45_yes.mp3",
+            "b": "assets/quiz45_no.mp3"
+        },
+        "45": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz46.mp3",
+            "a": "assets/quiz46_yes.mp3",
+            "b": "assets/quiz46_no.mp3"
+        },
+        "46": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz47.mp3",
+            "a": "assets/quiz47_yes.mp3",
+            "b": "assets/quiz47_no.mp3"
+        },
+        "47": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz48.mp3",
+            "a": "assets/quiz48_yes.mp3",
+            "b": "assets/quiz48_no.mp3"
+        },
+        "48": {
+            "end": "assets/quiz_end.mp3",
+            "audio1": "assets/quiz_end.mp3"
+        }
+    },
+    {
+        "0": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "1": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "2": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "3": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "4": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "5": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "6": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "7": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "8": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "9": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "10": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "11": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "12": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "13": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "14": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "15": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "16": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "17": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "18": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "19": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "20": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "21": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "22": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "23": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "24": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "25": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "26": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "27": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "28": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "29": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "30": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "31": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "32": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "33": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "34": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "35": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "36": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "37": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "38": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "39": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "40": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "41": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "42": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "43": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek2.jpg"
+        },
+        "44": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "45": {
+            "a": "assets/images/Dodatek1.jpg",
+            "b": "assets/images/Dodatek3.jpg"
+        },
+        "46": {
+            "a": "assets/images/Dodatek3.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "47": {
+            "a": "assets/images/Dodatek2.jpg",
+            "b": "assets/images/Dodatek1.jpg"
+        },
+        "48": {
+            "a": "",
+            "b": ""
         }
     }
 ]

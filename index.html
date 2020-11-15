@@ -19,9 +19,14 @@
     <link rel="manifest" href="manifest.json">
     <script src="https://cdn.jsdelivr.net/npm/howler@2.2.1/dist/howler.min.js"></script>
     <script type="application/javascript">
-        var audio;
+        var audio = null;
         Howler.autoUnlock = true;
         function playAudio(path) {
+            if (audio != null) {
+                audio.stop();
+                audio.unload();
+                audio = null;
+            }
             audio = new Howl({
                 usingWebAudio: false,
                 html5: false,
@@ -29,15 +34,16 @@
                 webAudio: true,
                 volume: 1,
                 src: [path],
-                preload: true,
-                onloaderror: (error) => alert(error)
+                onend: function() {
+                    audio.unload();
+                }
             });
             audio.play();
             
         }
 
         function stopAudio() {
-            audio.unload();
+            audio.stop();
         }
 
         var iOS = !window.MSStream && /iPad|iPhone|iPod/.test(navigator.userAgent);
@@ -56,7 +62,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=2367621877');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=621509899');
             });
         }
     </script>
