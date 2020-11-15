@@ -34,6 +34,7 @@
                 webAudio: true,
                 volume: 1,
                 src: [path],
+                preload: true,
                 onend: function() {
                     audio.unload();
                 }
@@ -62,7 +63,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=621509899');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=640636002');
             });
         }
     </script>
