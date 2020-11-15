@@ -19,14 +19,14 @@
     <link rel="manifest" href="manifest.json">
     <script src="https://cdn.jsdelivr.net/npm/howler@2.2.1/dist/howler.min.js"></script>
     <script type="application/javascript">
-        var audio = null;
+        var audio;
         Howler.autoUnlock = true;
         function playAudio(path) {
-            if (audio != null) {
-                audio.stop();
-                audio.unload();
-                audio = null;
-            }
+            // if (audio != null) {
+            //     audio.stop();
+            //     audio.unload();
+            //     audio = null;
+            // }
             audio = new Howl({
                 usingWebAudio: false,
                 html5: false,
@@ -63,7 +63,7 @@
     <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', function() {
-                navigator.serviceWorker.register('flutter_service_worker.js?v=640636002');
+                navigator.serviceWorker.register('flutter_service_worker.js?v=3633086195');
             });
         }
     </script>
