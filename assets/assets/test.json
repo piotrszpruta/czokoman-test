@@ -343,7 +343,7 @@
         },
         "23": {
             "a": "Perfekcyjnie",
-            "b": "Oj nie dobrze,  natychmiast zacznij."
+            "b": "Oj nie dobrze, natychmiast zacznij."
         },
         "24": {
             "a": "Jedzenie warzyw to zawsze dobry pomysł.",
@@ -576,8 +576,8 @@
         "21": {
             "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz22.mp3",
-            "a": "assets/quiz22_yes.mp3",
-            "b": "assets/quiz22_no.mp3"
+            "a": "assets/quiz22_no.mp3",
+            "b": "assets/quiz22_yes.mp3"
         },
         "22": {
             "end": "assets/quiz_end.mp3",
@@ -736,7 +736,6 @@
             "b": "assets/quiz48_no.mp3"
         },
         "48": {
-            "end": "assets/quiz_end.mp3",
             "audio1": "assets/quiz_end.mp3"
         }
     },
