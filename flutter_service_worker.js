@@ -113,10 +113,20 @@ const RESOURCES = {
 "icons/HelloWorld.jpg": "b4584db1ccd33ea546c24630cc723669",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "7758e9b670ce67534f073063a8d9511e",
-"/": "7758e9b670ce67534f073063a8d9511e",
+"index.html": "43c2bf9e65cc44eb822463c3726320f3",
+"/": "43c2bf9e65cc44eb822463c3726320f3",
 "main.dart.js": "bddbcb84467e6efbbd2140857ee08f75",
 "manifest.json": "7281cc35ed8836e379c4514915c11983",
+"splashscreens/ipadpro1_splash.png": "720db12d20e275afeec13fa6789c60e4",
+"splashscreens/ipadpro2_splash.png": "a9b893406df1f3b61a414e83fdf06f72",
+"splashscreens/ipadpro3_splash.png": "da484ce382677f8b053bbb1ee4dc22de",
+"splashscreens/ipad_splash.png": "3e3342bb23788937cc3e44d7114263b0",
+"splashscreens/iphone5_splash.png": "b649378c2ad31be3f8a844db0590f4cb",
+"splashscreens/iphone6_splash.png": "86ae2e40d298c3cbcced42d1cd357efd",
+"splashscreens/iphoneplus_splash.png": "148137aecb0109c2bba7d82d9a01a308",
+"splashscreens/iphonexr_splash.png": "1e404aac1dde7feac30ba30d4fd527df",
+"splashscreens/iphonexsmax_splash.png": "730c7ae8b707cf450d7a681d70d6a316",
+"splashscreens/iphonex_splash.png": "31a6eaa4a6692db04f85a27ea586d633",
 "version.json": "1b6adf7d28bded05383307a169afb8ac"
 };
 
