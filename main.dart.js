@@ -27714,14 +27714,14 @@ if(r==null)return M.MP(s,T.uu(L.h5("\u0141adowanie...",s,s,s,s,s,s,s,A.dP(s,s,s,
 else return new Z.pj(r,s)},
 $S:105}
 Z.pj.prototype={
-aC:function(){return new Z.Ck(this.c,C.kY,H.WX(C.h.i(C.kY.Bo(20)),null),P.b8(["a",C.dW.h(0,400),"b",C.dW.h(0,400)],t.bi,t.tW),C.k)}}
+aC:function(){return new Z.Ck(this.c,C.kY,H.WX(C.h.i(C.kY.Bo(47)),null),P.b8(["a",C.dW.h(0,400),"b",C.dW.h(0,400)],t.bi,t.tW),C.k)}}
 Z.Ck.prototype={
 Co:function(){var s,r,q=[]
 for(s=H.a6(q).c;!0;){q.push(C.kY.Bo(47))
 r=P.fM(q,s)
 r=P.a4(r,!0,H.I(r).j("bF.E"))
 this.y=r
-if(r.length<5)continue
+if(r.length<10)continue
 else break}P.hz(this.y)},
 b4:function(){this.Co()
 this.bt()},
@@ -27752,7 +27752,7 @@ o=t.fQ
 return M.MP(C.j,T.nq(H.d([s,T.yq(C.nA,H.d([r,M.j0(C.bm,new M.na(J.ak(k.h(l,0),J.bB(n.r)),A.dP(m,m,m,m,m,m,m,m,m,m,m,60,m,C.bV,m,m,!0,0.2,m,m,m,m,0.5),10,C.d0,0.3,5,m),m,m,m,p.b/4.1,m,m,q.a/1.6)],o),C.i6),T.h1(m,20,m),M.j0(m,T.nq(H.d([n.zK("a"),T.h1(m,20,m),n.zK("b")],o),C.bR,C.jF,C.dV),m,m,m,m,m,m,m)],o),C.bR,C.dU,C.dV))}}
 Z.SY.prototype={
 $0:function(){var s=this.a,r=s.f
-if(r<5){s.r=s.y[r]
+if(r<10){s.r=s.y[r]
 s.f=r+1}else{s.f=s.r=48
 r=s.c
 r.toString
