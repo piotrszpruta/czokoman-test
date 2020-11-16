@@ -1,19 +1,13 @@
 {
     "name": "CzokoMan",
     "short_name": "CzokoMan",
-    "start_url": ".",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#F2F2F2",
     "theme_color": "#0175C2",
     "description": "Quiz CzokoMan",
-    "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "orientation": "portrait",
     "icons": [
-        {
-            "src": "icons/Icon-192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
         {
             "src": "icons/HelloWorld.jpg",
             "type": "image/jpg"
