@@ -27787,7 +27787,7 @@ $.iP().hF("playAudio",[""])
 s=T.h1(m,50,m)
 r=L.h5("CzokoMan",m,m,m,m,m,m,m,A.dP(m,m,m,m,m,m,m,m,m,m,m,32,m,C.bV,m,m,!0,m,m,m,m,m,m),m,m,m)
 q=T.h1(m,50,m)
-p=M.j0(C.bm,U.J0("assets/images/HelloWorld.jpg",C.kJ,m,400),m,m,m,m,m,m,m)
+p=M.j0(C.bm,U.J0("assets/images/HelloWorld.jpg",C.kJ,m,400),m,m,m,400,m,m,m)
 o=T.h1(m,20,m)
 n=C.dW.h(0,400)
 return M.MP(C.j,M.j0(m,T.nq(H.d([s,r,q,p,o,Z.YP(L.h5("Rozpocznij quiz",m,m,m,m,m,m,m,A.dP(m,m,C.j,m,m,m,m,m,m,m,m,15,m,m,m,m,!0,m,m,m,m,m,m),m,m,m),n,new Y.TL(b))],t.fQ),C.bR,C.dU,C.dV),m,m,m,m,m,m,m))}}
